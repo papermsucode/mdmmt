@@ -3,6 +3,8 @@
 In this repository we present the testing code for article 
 [MDMMT: Multidomain Multimodal Transformer for Video Retrieval](https://arxiv.org/abs/2103.10699).
 
+[Presentation](./MDMMT_HVU_CVPR_2021.pdf) from CVPR-2021 Workshop "[Large Scale Holistic Video Understanding](https://holistic-video-understanding.github.io/workshops/cvpr2021.html)".
+
 This code helps:
 1. Create embeddings with CLIP, irCSN152 and VGGish;
 2. Create caption index files;
